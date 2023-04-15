@@ -1,2 +1,4 @@
-# helloPython-sqlite
-파이썬으로 sqlite 사용 공
+파이썬 연습
+===========
+# 1.파이썬, sqlite 
+###데이터베이스 연습
