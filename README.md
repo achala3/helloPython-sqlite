@@ -1,7 +1,7 @@
 파이썬 연습
 ===========
 # 1.파이썬, sqlite 
-###데이터베이스 연습)
+###데이터베이스 연습)  
 *(sqlite3) 명령은 path 걸려있으므로 어디서든 실행됨.  
      .open tst.db  명령은 tst.db 파일이 있는 폴더가서 함.  
      .table  또는 .tables하면 tst.db의 table 을 보여줌.  
