@@ -1,4 +1,4 @@
-#파이썬 import문
+(파이썬 import문 )
 
 from tkinter import *
 Tk()
@@ -23,7 +23,7 @@ from math import pi,sqrt
 1.71828...
    처럼 math모듈로부터 변수,함수를 콕 찝어 import불러오면 변수함수를 날것 그대로 쓸수있다.
    
- 이것도 pi,sqrt,... 나열하기 귀찮으면
+ 이것도 pi,sqrt,... 나열하기 귀찮으면  
  
  from math import *
 >>pi
@@ -32,3 +32,23 @@ from math import pi,sqrt
 1.71828...
 
 해서 모든(*) 을 쓰면 모두 사용할수 있다.
+
+(tkinter 창생성 구조)
+
+     from tkinter import *
+     win=Tk()                전체창생성
+      ...
+     win.mainloop()          전체창 배치
+     
+(  버튼 )
+
+     btn=Button(win)         버튼생성
+     
+      
+     
+     btn.pack()              버튼배치
+     
+     
+     
+     
+     
