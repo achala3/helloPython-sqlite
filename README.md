@@ -21,6 +21,10 @@
        
 1. (마크다운 사용법)  
    * https://www.youtube.com/watch?v=dUbp9wAy178 
+
+2.(VS code 사용법)
+   단축키 - 찾기 : ctl+ F
+           바꾸기 : ctl+ H
   
     
        
